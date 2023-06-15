@@ -1,15 +1,10 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # 1. Import the necessary libraries
-
-# In[1]:
-
-
-import pandas as pd
 import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
+import psycopg1
 
 from sklearn.preprocessing import LabelEncoder
 from imblearn.under_sampling import RandomUnderSampler
