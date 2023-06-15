@@ -586,8 +586,35 @@ with open('model.pkl', 'wb') as file:
 #pip install nbconvert
 
 
-# In[2]:
+# In[1]:
 
 
-#jupyter nbconvert --to script Plot-Hamoye.ipynb
+#pip freeze > requirements.txt
+
+
+# In[3]:
+
+
+# with open('requirements.txt', 'r') as file:
+#     contents = file.read()
+
+# print(contents)
+
+
+# In[4]:
+
+
+#pip install seaborn
+
+
+# In[5]:
+
+
+#pip install psycopg2-binary
+
+
+# In[6]:
+
+
+
 
