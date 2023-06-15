@@ -118,3 +118,5 @@ websocket-client==1.5.1
 Werkzeug==2.2.2
 widgetsnbextension==4.0.5
 wsproto==1.2.0
+seaborn==0.12.2
+
