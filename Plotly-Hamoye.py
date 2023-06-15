@@ -583,11 +583,11 @@ with open('model.pkl', 'wb') as file:
 # In[1]:
 
 
-pip install nbconvert
+#pip install nbconvert
 
 
 # In[2]:
 
 
-jupyter nbconvert --to script Plot-Hamoye.ipynb
+#jupyter nbconvert --to script Plot-Hamoye.ipynb
 
